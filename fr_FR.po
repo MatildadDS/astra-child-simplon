@@ -69,4 +69,3 @@ msgstr "Vanille"
 #: functions.php:97
 msgid "White"
 msgstr "Blanc"
-
