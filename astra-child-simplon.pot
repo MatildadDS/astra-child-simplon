@@ -66,3 +66,4 @@ msgstr ""
 #: functions.php:97
 msgid "White"
 msgstr ""
+
